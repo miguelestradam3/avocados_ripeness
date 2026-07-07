@@ -157,6 +157,3 @@ This project demonstrates how to:
 - Implement cross-validation
 - Build an interactive prediction app with Streamlit
 
----
-
-⭐ If you found this project useful, consider giving it a star!
